@@ -1,0 +1,15 @@
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\bin\Debug\net7.0\aprendeCsharp.exe
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\bin\Debug\net7.0\aprendeCsharp.deps.json
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\bin\Debug\net7.0\aprendeCsharp.runtimeconfig.json
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\bin\Debug\net7.0\aprendeCsharp.dll
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\bin\Debug\net7.0\aprendeCsharp.pdb
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.csproj.AssemblyReference.cache
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.AssemblyInfoInputs.cache
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.AssemblyInfo.cs
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.csproj.CoreCompileInputs.cache
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.dll
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\obj\Debug\net7.0\refint\aprendeCsharp.dll
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.pdb
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.genruntimeconfig.cache
+C:\Users\danieloquendo\Desktop\Unity\ProBasica_Unity\aprendeCsharp\obj\Debug\net7.0\ref\aprendeCsharp.dll
